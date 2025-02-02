@@ -65,4 +65,5 @@ Summarize insights gained from the data and model, discussing implications for *
 
 **🌟 Contributions and Feedback are Welcome!**
 Feel free to fork this repository, open issues, or submit pull requests to improve the project.
+Developed by Akshanth Palway
 
