@@ -1,4 +1,5 @@
 # 🎵 Predicting Song Popularity with Regression
+![image](https://github.com/user-attachments/assets/422f069d-cc78-460b-8292-c9981013ebda)
 
 ## 🚀 Project Overview
 This project delves into the world of music analytics by predicting song popularity using various regression techniques. Leveraging a rich dataset of musical features like **danceability**, **energy**, and **loudness**, we aim to uncover patterns that dictate a song's success on platforms like **Spotify**.
